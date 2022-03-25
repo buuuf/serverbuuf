@@ -1,0 +1,2 @@
+# serverbuuf
+server do buuf
